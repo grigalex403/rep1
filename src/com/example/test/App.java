@@ -1,7 +1,9 @@
 package com.example.test;
 
 public class App {
-    public static void main(String[] args){
-        System.out.println("Hello world!");
+    public static void main(String[] args) {
+        while (true) {
+            System.out.println(1);
+        }
     }
 }
